@@ -1,0 +1,1 @@
+// Here we put all the text of the website - Just map the text from the components
